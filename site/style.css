@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+.btn{
+    border: none;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
